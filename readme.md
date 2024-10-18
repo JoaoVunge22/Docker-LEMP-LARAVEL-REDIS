@@ -1,5 +1,5 @@
 # Sobre
-Stack LEMP com Docker Compose
+Stack LEMP + Redis com Docker Compose
 
 Neste repositório temos a criação de uma imagem Docker que embora possa ser utilizada em produção, ainda merece ser aperfeiçoada para permitir realmente o escalonamento da aplicação.
 
